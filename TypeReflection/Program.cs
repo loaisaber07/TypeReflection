@@ -38,7 +38,7 @@ public class Program
         {
             Console.WriteLine(item);
         }
-
+        //Dynamic Properties 
     }
     public static IEnumerable<string> Methods(Type type)
     {
